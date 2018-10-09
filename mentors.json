@@ -3,90 +3,105 @@
     "id": 1,
     "name": "Nicholas Clark",
     "title": "CTO",
-    "company": "Doubledutch"
+    "company": "Doubledutch",
+    "imageUrl": "https://s3-us-west-1.amazonaws.com/plato-api-images-production/DbManagerUser/48/picture/small/rezAXor21G.png"
   },
   {
     "id": 2,
     "name": "Barry Allen",
     "title": "Engineering Manager",
-    "company": "Facebook"
+    "company": "Facebook",
+    "imageUrl": "https://s3-us-west-1.amazonaws.com/plato-api-images-production/DbManagerUser/70/picture/small/zf1rU7b5l4.png"
   },
   {
     "id": 3,
     "name": "Harry Newman",
     "title": "CTO",
-    "company": "Segment"
+    "company": "Segment",
+    "imageUrl": "https://s3-us-west-1.amazonaws.com/plato-api-images-production/DbMentor/456/picture/small/QkPQqX7SFI.png"
   },
   {
     "id": 4,
     "name": "May Webster",
     "title": "First Engineer & Principal Architect",
-    "company": "Box"
+    "company": "Box",
+    "imageUrl": "https://s3-us-west-1.amazonaws.com/plato-api-images-production/DbManagerUser/1300/picture/small/MffvLSaXSK.png"
   },
   {
     "id": 5,
     "name": "Gary Luna",
     "title": "VP Engineering",
-    "company": "Lyft"
+    "company": "Lyft",
+    "imageUrl": "https://s3-us-west-1.amazonaws.com/plato-api-images-production/DbManagerUser/1298/picture/small/kRyE6FkQR3.png"
   },
   {
     "id": 6,
     "name": "Leona Lamb",
     "title": "Cofounder & VP Technology",
-    "company": "Box"
+    "company": "Box",
+    "imageUrl": "https://s3-us-west-1.amazonaws.com/plato-api-images-production/DbManagerUser/1295/picture/small/DIWOhNdqDk.png"
   },
   {
     "id": 7,
     "name": "Rosa Glover",
     "title": "CTO",
-    "company": "Munchery"
+    "company": "Munchery",
+    "imageUrl": "https://s3-us-west-1.amazonaws.com/plato-api-images-production/DbManagerUser/1268/picture/small/E5lsOvo6iT.png"
   },
   {
     "id": 8,
     "name": "Hilda Oliver",
     "title": "Engineering Manager",
-    "company": "Google"
+    "company": "Google",
+    "imageUrl": "https://s3-us-west-1.amazonaws.com/plato-api-images-production/DbManagerUser/1262/picture/small/0rvuchjwWI.png"
   },
   {
     "id": 9,
     "name": "Janie Hunter",
     "title": "Principal & Product Manager",
-    "company": "Invision"
+    "company": "Invision",
+    "imageUrl": "https://s3-us-west-1.amazonaws.com/plato-api-images-production/DbManagerUser/966/picture/small/ISodeIxi2F.png"
   },
   {
     "id": 10,
     "name": "Eddie Silva",
     "title": "Engineering Manager",
-    "company": "Google"
+    "company": "Google",
+    "imageUrl": "https://s3-us-west-1.amazonaws.com/plato-api-images-production/DbManagerUser/1259/picture/small/4VszHnAmsg.png"
   },
   {
     "id": 11,
     "name": "Chad Chandler",
     "title": "Lead Engineering",
-    "company": "Apple"
+    "company": "Apple",
+    "imageUrl": "https://s3-us-west-1.amazonaws.com/plato-api-images-production/DbManagerUser/1254/picture/small/VzYu6uR9fX.png"
   },
   {
     "id": 12,
     "name": "Curtis McDonald",
     "title": "UX Architect",
-    "company": "Netflix"
+    "company": "Netflix",
+    "imageUrl": "https://s3-us-west-1.amazonaws.com/plato-api-images-production/DbManagerUser/1253/picture/small/owjiW6Xih0.png"
   },
   {
     "id": 13,
     "name": "Jorge Sherman",
     "title": "Engineering Manager",
-    "company": "Google"
+    "company": "Google",
+    "imageUrl": "https://s3-us-west-1.amazonaws.com/plato-api-images-production/DbManagerUser/1250/picture/small/Uce7Gj9EDt.png"
   },
   {
     "id": 14,
     "name": "Mabelle Padilla",
     "title": "VP Engineering",
-    "company": "Youtube"
+    "company": "Youtube",
+    "imageUrl": "https://s3-us-west-1.amazonaws.com/plato-api-images-production/DbManagerUser/1249/picture/small/BfEY8rRvwD.png"
   },
   {
     "id": 15,
     "name": "Norman Wolfe",
     "title": "Product Lead Manager",
-    "company": "Whatsapp"
+    "company": "Whatsapp",
+    "imageUrl": "https://s3-us-west-1.amazonaws.com/plato-api-images-production/DbManagerUser/1247/picture/small/MuinFSxK9Z.png"
   }
 ]
